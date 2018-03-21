@@ -1,0 +1,5 @@
+#!/bin/bash
+
+gpio mode 24 out
+gpio write 24 0
+

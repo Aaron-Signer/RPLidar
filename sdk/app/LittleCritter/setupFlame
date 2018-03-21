@@ -1,0 +1,4 @@
+#!/bin/bash
+sudo gpio load spi
+sudo gpio -x mcp3004:100:0 aread 100 
+
